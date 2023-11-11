@@ -26,7 +26,7 @@ def seperation(wordlist_Path, domain):
     file = open(wordlist_Path, 'r')
     names = file.readlines()
     for name in names:
-        name_Parts = name.strip().split('-')
+        name_Parts = name.strip().split(' ')
         if len(name_Parts) == 2:
             firstname, lastname = name_Parts
             firstname = str(firstname)
