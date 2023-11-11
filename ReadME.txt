@@ -1,6 +1,6 @@
-Email Forge Guide 
+EMForge Guide 
 
-Email Forge is a tool used for creating combinations of emails from the first and last name of the user. 
+EMForge is a tool used for creating combinations of emails from the first and last name of the user. 
 
 Prequisits:
 - Python 3.11 
