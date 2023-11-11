@@ -43,6 +43,7 @@ def seperation(wordlist_Path, domain):
             print(f"{lastname}@{domain}")
             print(f"{lastname}.{firstname[0]}@{domain}")
             print(f"{firstname}.{lastname[0]}@{domain}")
+            print(f"{firstname[0]}{lastname[0]}@{domain}")
             print('''                                                 ''')
             time.sleep(2)
         else:
