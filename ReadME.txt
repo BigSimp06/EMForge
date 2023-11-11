@@ -13,3 +13,7 @@ The way that this program will read from the file and you will need to seperate 
 For an example take a look at the example wordlist. 
 
 For this you will also need the email domain, for instance if you are looking for emails on hotmail.com, you would need to enter hotmail.com when the domain is queried. 
+
+This tool also works for a single name and will be upgraded for better functionality. 
+
+Thank you!
